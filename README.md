@@ -7,7 +7,7 @@ Built using **HTML, CSS, and JavaScript**, this project demonstrates a clean UI 
 
 ## 📸 Preview
 
-![Preview](https://raw.githubusercontent.com/shirinmohajeri/HTML/refs/heads/main/1009b297-0d90-4ed3-8cce-9d16a36cf799.png)
+![Preview]([https://raw.githubusercontent.com/shirinmohajeri/HTML/refs/heads/main/1009b297-0d90-4ed3-8cce-9d16a36cf799.png](https://raw.githubusercontent.com/shirinmohajeri/HTML/refs/heads/main/page1.jpg))
 
 ---
 
